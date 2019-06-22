@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/apache-jakarta-commons-net-ftp.jar"/>
+	<classpathentry kind="lib" path="lib/apache-log4j-extras-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/com.jcraft.jsch-all-1.0.6.release.jar"/>
+	<classpathentry kind="lib" path="lib/com.lowagie.text_2.1.7.v201004222200.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/connector.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/jndi.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.50.jar"/>
+	<classpathentry kind="lib" path="lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jta.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/tibemsd_sec.jar"/>
+	<classpathentry kind="lib" path="lib/tibjms.jar"/>
+	<classpathentry kind="lib" path="lib/tibjmsadmin.jar"/>
+	<classpathentry kind="lib" path="lib/tibjmsapps.jar"/>
+	<classpathentry kind="lib" path="lib/tibjmsufo.jar"/>
+	<classpathentry kind="lib" path="lib/tibrvjms.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
